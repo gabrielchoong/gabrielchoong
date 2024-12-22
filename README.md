@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gabriel. 3rd year in college currently doing my final year project.
+I'm Gabriel. Final year college student currently doing my final year project.
 
 <!--
 **gabrielchoong/gabrielchoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
