@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - **Learning**: Exploring **Rust** and diving deeper into **Machine Learning**.
 - **Collaborations**: Open to collaborate on **ML projects** or anything tech-driven and innovative.
 
+### Project WIP
+- **Personal Website**: Written using React, Next.js and Node.js. ([Repo](https://github.com/gabrielchoong/personal-website))
+- **Accounting App**: Written using Tauri, React and Rust. ([Repo](https://github.com/gabrielchoong/accounting-app))
+
 ### Connect with Me
 - Have questions? Ask me about **ongoing projects** or my work on  **combustion systems**.
 - Reach out: [Mail](mailto:gabrielchoonggeliang@gmail.com)
